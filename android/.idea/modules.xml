@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/888626883/android.share_plus.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1516980205/android.url_launcher_android.unitTest.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'input_page.dart';
+import 'splash.dart';
+// import 'input_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +19,8 @@ class MyApp extends StatelessWidget {
           primary: Colors.grey.shade50,
         ),
       ),
-      home: const InputPage(),
+      // home: const InputPage(),
+      home: const SplashScreen(),
     );
   }
 }

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'splash.dart';
-// import 'input_page.dart';
+import 'package:bmi/screens/splash_page.dart';
+// import 'package:bmi/screens/input_page.dart';
 
 void main() {
   runApp(const MyApp());
